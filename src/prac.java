@@ -21,5 +21,7 @@ public class prac {
 		// 233168
 		// 233168
 		// 233168
+		
+		// commit 연습 
 	}
 }
